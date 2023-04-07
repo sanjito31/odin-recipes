@@ -1,4 +1,27 @@
-.recipe-names {
-    color: mediumseagreen;
-    font-family: sans-serif;
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(152, 118, 84);
+    color: white;
+}
+
+.main {
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.small {
+    text-align: left;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.recipe {
+    color: #8ca765;
+    font-size: 20px
+}
+
+img {
+    height: auto;
+    width: 300px;
 }
